@@ -119,7 +119,7 @@ footer {
     grid-area: 3/4/3/4;
 }
 
-/* #Alternative {
+#Alternative {
     font-family: "myFont";
 }
 
@@ -131,7 +131,7 @@ a[href="mailto:p2luo@ucsd.edu"]{
     font-size: 2vmin;
 }
 
-main > h3 {
+/* main > h3 {
     color: #4b296f; 
 }
 
