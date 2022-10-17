@@ -92,7 +92,7 @@ footer {
     justify-content: center;
 }
 
-/* .container_g {
+.container_g {
     margin:auto;
 
     border-style: solid;
@@ -119,7 +119,7 @@ footer {
     grid-area: 3/4/3/4;
 }
 
-#Alternative {
+/* #Alternative {
     font-family: "myFont";
 }
 
