@@ -127,9 +127,9 @@ a[href="mailto:p2luo@ucsd.edu"]{
     font-family: "myFont";
 }
 
-/* .warning strong {
+.warning strong {
     font-size: 5vmin;
-} */
+}
 
 main > h3 {
     color: #4b296f; 
