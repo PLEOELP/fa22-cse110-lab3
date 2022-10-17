@@ -10,7 +10,11 @@
     }
 }
 
-h1 {
+* {
+    font-size: 1vmin;
+}
+
+h1, h3 {
     margin-top: 1px;
     margin-bottom: 1px;
     margin-right: 1px;
@@ -25,7 +29,7 @@ h1 {
     color: #000000;   
     text-align: center;
 
-    display: inline;
+    display:block;
 
     position: relative;
     left: 40px;    
@@ -113,4 +117,32 @@ footer {
 
 .child_g3 {
     grid-area: 3/4/3/4;
+}
+
+#Alternative {
+    font-family: "myFont";
+}
+
+a[href="mailto:p2luo@ucsd.edu"]{
+    font-family: "myFont";
+}
+
+.warning strong {
+    font-size: 2vmin;
+}
+
+main > h3 {
+    color: #4b296f; 
+}
+
+.child_f + .child_f {
+    color: #6616c2; 
+}
+
+.child_g1 ~ .child_g3 {
+    color: #77c216;
+}
+
+span.TA {
+    color: #77c216;
 }
